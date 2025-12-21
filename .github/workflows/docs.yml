@@ -1,4 +1,4 @@
-name: Documentation
+name: Build grammar
 on:
   push:
     branches:

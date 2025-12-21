@@ -1,6 +1,8 @@
 # Words _vs_ phrases
 
-Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang §5.2.1.2 meekly accepts Lü's arbitrary rule. The following analysis implements the [defition](#defining-word) above on Chang's examples:
+Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang
+§5.2.1.2 meekly accepts Lü's arbitrary rule. The following analysis implements
+the [defition](defining-word.md) above on Chang's examples:
 
 ||人造|絲|
 |:-:|:-:|:-:|
@@ -10,19 +12,19 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 
 ||人造|纖維|
 |:-:|:-:|:-:|
-|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1897)|
+|Rule 1||free [morph](two-character-morphs.md) (Japanese, 1897)|
 ||adjective|noun|
 |NP|complement|head|
 
 ||豆|製品|
 |:-:|:-:|:-:|
-|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1880)|
+|Rule 3|word|bound [morph](two-character-morphs.md) (Japanese, 1880)|
 ||noun|nominal bound root|
 |noun|dependent|head|
 
 ||生物|製品|
 |:-:|:-:|:-:|
-|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1880)|
+|Rule 3|word|bound [morph](two-character-morphs.md) (Japanese, 1880)|
 ||noun|nominal bound root|
 |noun|dependent|head|
 
@@ -46,7 +48,7 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 
 ||自由|體操|
 |:-:|:-:|:-:|
-|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1887)|
+|Rule 1||free [morph](two-character-morphs.md) (Japanese, 1887)|
 ||adjective|noun|
 |NP|complement|head|
 

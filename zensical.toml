@@ -44,10 +44,27 @@ Copyright &copy; 2025 Tonkünstler-on-the-Bund
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "Get started" = "index.md" },
+  { "1 Preliminaries" = "preliminaries/periodisation.md" },
+  { "2 Syntactic overview" = [
+        "syntax/gaps.md",
+        "syntax/emic.md"
+  ]},
+  { "4 The clause: complements" = "complements/copula-verbless.md" },
+  { "6 Adjectives and adverbs" = "adjectives-adverbs/顯然是.md" },
+  { "8 The clause: adjuncts" = "adjuncts/越.md" },
+  { "15 Coordination" = "coordination/asyndetic.md" },
+  { "19 Lexical word-formation" = [
+        "word-formation/expansion-tests.md",
+        "word-formation/two-character-morphs.md",
+        "word-formation/defining-word.md",
+        "word-formation/words-phrases.md",
+        "word-formation/orthographic-alternation.md",
+        "word-formation/等國.md"
+  ]},
+  { "20 Punctuation" = "punctuation.md" }
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of

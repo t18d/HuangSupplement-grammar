@@ -48,6 +48,7 @@ nav = [
   { "Get started" = "index.md" },
   { "1 Preliminaries" = [
         "preliminaries/periodisation.md",
+        "preliminaries/acceptability.md",
         "preliminaries/phrase.md"
   ]},
   { "2 Syntactic overview" = [

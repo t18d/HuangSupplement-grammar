@@ -46,7 +46,10 @@ Copyright &copy; 2025 Tonkünstler-on-the-Bund
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Get started" = "index.md" },
-  { "1 Preliminaries" = "preliminaries/periodisation.md" },
+  { "1 Preliminaries" = [
+        "preliminaries/periodisation.md",
+        "preliminaries/phrase.md"
+  ]},
   { "2 Syntactic overview" = [
         "syntax/gaps.md",
         "syntax/emic.md"

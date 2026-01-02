@@ -48,12 +48,13 @@ nav = [
   { "Get started" = "index.md" },
   { "1 Preliminaries" = [
         "preliminaries/periodisation.md",
-        "preliminaries/acceptability.md",
-        "preliminaries/phrase.md"
+        "preliminaries/acceptability.md"
   ]},
   { "2 Syntactic overview" = [
+        "syntax/legacy.md",
         "syntax/gaps.md",
-        "syntax/emic.md"
+        "syntax/emic.md",
+        "syntax/phrase.md"
   ]},
   { "4 The clause: complements" = "complements/copula-verbless.md" },
   { "6 Adjectives and adverbs" = "adjectives-adverbs/顯然是.md" },

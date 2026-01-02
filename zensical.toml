@@ -49,7 +49,8 @@ nav = [
   { "1 Preliminaries" = [
         "preliminaries/acceptability.md",
         "preliminaries/synchronic.md",
-        "preliminaries/periodisation.md"
+        "preliminaries/periodisation.md",
+        "preliminaries/advice.md"
   ]},
   { "2 Syntactic overview" = [
         "syntax/legacy.md",

@@ -47,8 +47,9 @@ Copyright &copy; 2025 Tonkünstler-on-the-Bund
 nav = [
   { "Get started" = "index.md" },
   { "1 Preliminaries" = [
-        "preliminaries/periodisation.md",
-        "preliminaries/acceptability.md"
+        "preliminaries/acceptability.md",
+        "preliminaries/synchronic.md",
+        "preliminaries/periodisation.md"
   ]},
   { "2 Syntactic overview" = [
         "syntax/legacy.md",

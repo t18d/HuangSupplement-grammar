@@ -51,6 +51,7 @@ nav = [
         "preliminaries/synchronic.md",
         "preliminaries/periodisation.md",
         "preliminaries/theory.md",
+        "preliminaries/myths.md",
         "preliminaries/advice.md"
   ]},
   { "2 Syntactic overview" = [

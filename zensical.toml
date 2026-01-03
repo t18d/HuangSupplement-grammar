@@ -56,7 +56,7 @@ nav = [
   { "2 Syntactic overview" = [
         "syntax/legacy.md",
         "syntax/gaps.md",
-        "syntax/emic.md",
+        "syntax/morph.md",
         "syntax/phrase.md"
   ]},
   { "4 The clause: complements" = "complements/copula-verbless.md" },

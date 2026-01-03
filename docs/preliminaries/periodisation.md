@@ -4,4 +4,6 @@ Old Chinese and Middle Chinese, like Baroque, are terms that one could wish by n
 
 Use a date, date range or political period.
 
-**Example:** _Early_ Chou _Chinese_
+!!! example
+
+    _Early_ Chou _Chinese_

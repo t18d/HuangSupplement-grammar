@@ -62,7 +62,10 @@ nav = [
         "syntax/phrase.md"
   ]},
   { "4 The clause: complements" = "complements/copula-verbless.md" },
-  { "6 Adjectives and adverbs" = "adjectives-adverbs/顯然是.md" },
+  { "6 Adjectives and adverbs" = [
+        "adjectives-adverbs/statives.md",
+        "adjectives-adverbs/顯然是.md"
+  ]},
   { "7 Clitics" = [
         "clitics/adposition.md",
         "clitics/genitive.md"

@@ -2,8 +2,8 @@
 
 ??? note "Bibliography"
 
-    R. M. W. Dixon, 'The Semantics of Clause Linking in Typological Perspective', in _The Semantics of Clause Linking: A Cross-linguistic Typology_ (Oxford, 2009), 51.  
-    ⸻, _A Semantic Approach to English Grammar_ (2nd edn, Oxford, 2005), 390.
+    R. M. W. Dixon, 'The Semantics of Clause Linking in Typological Perspective', in _The Semantics of Clause Linking: A Cross-linguistic Typology_ (Oxford, 2009), 1–55.  
+    ⸻, _A Semantic Approach to English Grammar_ (2nd edn, Oxford, 2005).
 
 It's customary today for grammarians to pay lip service to descriptivism and
 then seek refuge in an ill-defined 'standard language'.
@@ -32,15 +32,12 @@ speakers.
 
 ## Self-editing
 
-Editing one's own grammar is a form of self-censorship. Like censorship, it's
-more common than we realise.
-
-Dixon (2009) doesn't hesitate to use _however_ as a conjunction in a typological
-work:
+Dixon (2009: 51) doesn't hesitate to use _however_ as a conjunction in a
+typological work:
 
 > I was only six years old, however I do remember it well.
 
-but switches to the more 'correct' adverb in Dixon (2005), a book on English
-grammar:
+but switches to the more 'correct' adverb in Dixon (2005: 390), a book on
+English grammar:
 
 > John had voted Labour; however, his brother had voted Conservative

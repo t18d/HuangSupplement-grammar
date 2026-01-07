@@ -73,9 +73,9 @@ nav = [
   { "8 The clause: peripheral arguments" = "peripheral/越.md" },
   { "15 Coordination" = "coordination/asyndetic.md" },
   { "19 Lexical word-formation" = [
-        "word-formation/expansion-tests.md",
+        "word-formation/expansion.md",
         "word-formation/two-character-morphs.md",
-        "word-formation/defining-word.md",
+        "word-formation/word.md",
         "word-formation/words-phrases.md",
         "word-formation/orthographic-alternation.md",
         "word-formation/等國.md"

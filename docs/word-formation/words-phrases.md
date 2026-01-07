@@ -1,8 +1,8 @@
 # Words _vs_ phrases
 
 Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang
-§5.2.1.2 meekly accepts Lü's arbitrary rule. The following analysis implements
-the [defition](defining-word.md) above on Chang's examples:
+(p. 273) meekly accepts Lü's arbitrary rule. The following analysis implements
+the [defition](word.md) above on Chang's examples:
 
 ||人造|絲|
 |:-:|:-:|:-:|

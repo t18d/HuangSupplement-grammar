@@ -70,7 +70,7 @@ nav = [
         "clitics/adposition.md",
         "clitics/genitive.md"
   ]},
-  { "8 The clause: peripheral arguments" = "peripheral/越.md" },
+  { "8 The clause: peripheral arguments" = "peripheral/temporal-np.md" },
   { "15 Coordination" = "coordination/asyndetic.md" },
   { "19 Lexical word-formation" = [
         "word-formation/expansion.md",

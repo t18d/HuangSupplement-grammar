@@ -8,6 +8,6 @@ used to explain away conflicting evidence.
 
 !!! example
 
-    A matchbox is _not_ a box for matches (CGEL §14.4), but one in which matches are
-    sold, with a striking surface on one side; 羊肉 is _not_ equivalent to 羊的肉
-    (Chang: 277), but flesh of sheep used as food.
+    A matchbox is _not_ a box for matches (CGEL ch. 5, §14.4), but one in which
+    matches are sold, with a striking surface on one side; 羊肉 is _not_
+    equivalent to 羊的肉 (Chang: 277), but is flesh of sheep used as food.

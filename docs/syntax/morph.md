@@ -9,4 +9,4 @@ Huang–Shih) miss a phenomenon like [orthographic alternation](../word-formatio
 3. By not grasping the difference between abstract units and their physical
 **realisation**, one can fall prey to sloppy terminology such as 二字詞 (which
 describes orthography without regard to the actual number of morphemes) and
-雙音節詞 (which sows confusion about **phonological word**).
+雙音詞 (which sows confusion about **phonological word**).

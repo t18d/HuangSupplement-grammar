@@ -2,7 +2,13 @@
 
 ## Defining 'word'
 
-In Mandarin Chinese, a native **word** is a **lexeme** realised by
+In Mandarin Chinese, a native (grammatical) **word** is a **lexeme** realised by
+
+!!! tip inline end
+
+    In pre-modern Chinese, the lemmata in commentaries are probably the best
+    evidence we have for the native speakers' intuition in the matter of
+    wordhood.
 
 1. a free **morph** _or_
 2. a fossilised compound of two or more **morphs** _or_

@@ -11,7 +11,7 @@ In Mandarin Chinese, a native **word** is a **lexeme** realised by
 
 ## Implementation
 
-Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang
+Huang–Shih §8.5.1 gives up trying to distinguish between compounds and NPs; Chang
 (p. 273) meekly accepts Lü's arbitrary rule. The following analysis implements
 the defition above on Chang's examples:
 
@@ -63,7 +63,7 @@ the defition above on Chang's examples:
 ||adjective|noun|
 |NP|complement|head|
 
-and for examples in Huang–Shi §3.4.2:
+and for examples in Huang–Shih §3.4.2:
 
 ||光|線|
 |:-:|:-:|:-:|

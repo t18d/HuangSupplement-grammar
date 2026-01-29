@@ -2,8 +2,10 @@
 
 ??? note "Bibliography"
 
+    Robert Allen, _Allen's Dictionary of English Phrases_ (rev. edn, London, 2008).  
     韓書庚, ‘清末民初同素異序構式研究’, doctoral thesis, 山東師範大學, 2019.  
     韓曉明 et al., ‘離合詞是詞還是短語：基於漢語母語者認知的考察’, 語言文字應用, 2 (2024), 112–23.  
+    季忠平, 中古漢語語典詞研究 (Shanghai, 2013).  
     曲晏松, ‘清末民初白話離合詞研究’, master's thesis, 山東師範大學, 2021.  
     王雲路－王健, ‘基於詞彙史角度的漢語離合詞研究’, 文獻語言學, 10 (2020), 65–79.  
     楊榮祥, ‘古漢語同義詞辨析的途徑——以「制」「度」為例’, 語文研究, 114 (2010), 28–34.  
@@ -42,6 +44,12 @@ ambiguity of polysemous words (Chao 1994: 33).
 
     In the case of 制, he also misquotes Cheng Hsüan, who wrote 制法度 in
     his _Li chi_ commentary.
+
+## Allusive compounds
+
+Allen (2008) is the standard work on the origins of allusive phrases in the
+lingua franca. Chi (2013) lays the ground for an etymological dictionary of the
+allusive compounds in Chinese.
 
 ## Ionisation
 

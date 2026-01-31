@@ -76,6 +76,7 @@ nav = [
   { "19 Lexical word-formation" = [
         "word-formation/expansion.md",
         "word-formation/word.md",
+        "word-formation/zero-derivation.md",
         "word-formation/compound.md",
         "word-formation/orthographic-alternation.md",
         "word-formation/等國.md"

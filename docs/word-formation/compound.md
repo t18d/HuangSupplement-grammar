@@ -47,6 +47,13 @@ ambiguity of polysemous words (Chao 1994: 33).
 
 ## Allusive compounds
 
+!!! quote inline end
+
+    _The treatment of phrases in the major historical dictionaries is far less
+    rigorous than the coverage of individual words._
+
+    **— Robert Allen**
+
 Allen (2008) is the standard work on the origins of allusive phrases in the
 lingua franca. Chi (2013) lays the ground for an etymological dictionary of the
 allusive compounds in Chinese.
